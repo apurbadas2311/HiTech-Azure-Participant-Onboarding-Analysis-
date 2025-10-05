@@ -9,14 +9,23 @@ Participant Type (Academic vs. Employed), to provide actionable insights for imp
 The analysis revealed that the 
 
 Employed participant type has a higher conversion rate (30%) compared to Academic participants (20%). The final output is a comprehensive dashboard for management, detailing drop-out points and conversion rates.
+
 📝 Table of Contents
+
 •	Key Findings & Features
+
 •	Participant Interaction Overview
+
 •	Data & Technology Stack
+
 •	Getting Started (Accessing the Data)
+
 •	Example Usage Scenario
+
 •	Contributing
+
 •	License
+
 •	Contact
 ________________________________________
 💡 Key Findings & Features
