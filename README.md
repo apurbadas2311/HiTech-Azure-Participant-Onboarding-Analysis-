@@ -1,4 +1,4 @@
-HiTech Azure Participant Onboarding Analysis 📈
+# HiTech Azure Participant Onboarding Analysis 📈
 
 Optimizing Conversion: Participant Onboarding Funnel Analysis
 
