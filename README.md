@@ -31,27 +31,39 @@ ________________________________________
 💡 Key Findings & Features
 
 The analysis provides a deep dive into participant engagement across the onboarding funnel:
+
 •	Overall Dropout Rate: The highest drop-out occurs between REGISTERED and WORKSHOP ATTENDED, with a 60.00% rate.
+
 •	Total Participants: The analysis covered 30 unique participants.
+
 •	Conversion Superiority: The conversion rate of Employed participants (30.00%) is higher than Academic participants (20.00%).
+
 •	Time Spent: The average time spent across all stages is almost the same for Academic (9.11 days) and Employed (9.53 days) participants.
+
 •	Funnel Segmentation: Detailed drop-out and journey timelines are provided for both Academic and Employed participant types.
+
 •	Data Source: Raw participant interaction data, including ParticipantID, ActionDate Stage, and Participant Type, is included.
 ________________________________________
 💻 Data & Technology Stack
 
 This project is a dedicated data analysis and reporting effort.
+
 •	Core Technology: Google Sheets / Spreadsheet (used for data manipulation, calculations, and dashboard visualization).
+
 •	Analysis Method: Cohort Analysis, Funnel Analysis, and calculation of drop-out rates and average time spent between stages.
+
 •	Deployment/Hosting: Spreadsheet/PDF Report (for easy sharing of results with stakeholders).
 
 🔬 Example Usage Scenario
 
 A program manager wants to understand the best stage for intervention to maximize paid conversions:
+
 1.	They check the 
 Overall Dropout Rate % chart on the dashboard.
+
 2.	They observe the largest drop-off (60.00%) occurs between 
 REGISTERED and WORKSHOP ATTENDED.
+
 3.	Action: The manager concludes that the priority for intervention is implementing reminder systems or more engaging pre-workshop content to encourage registered participants to attend the workshop.
 
-![image_Alt]
+![image_Alt](https://github.com/apurbadas2311/HiTech-Azure-Participant-Onboarding-Analysis-/blob/main/HiTech_Dashboard.png)
